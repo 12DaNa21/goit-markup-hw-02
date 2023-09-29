@@ -1,0 +1,149 @@
+body {
+  font-family: "Roboto", "Raleway", sans-serif;
+}
+.container {
+  max-width: 1440px;
+  margin: auto;
+  padding: auto;
+  max-height: 3300px;
+  background-color: #fff;
+}
+.nav-line {
+  height: 72px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.nav-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 156px;
+  margin-right: 76px;
+}
+.accent {
+  color: #4d5ae5;
+}
+.menu-nav {
+  margin-left: 76px;
+}
+.menu-nav-item {
+  color: var(--NAVY-BLUE, #2e2f42);
+
+  /* Body Medium */
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px; /* 150% */
+  letter-spacing: 0.32px;
+}
+.contacts-menu {
+  gap: 40px;
+}
+.contacts-menu {
+  margin-right: 156px;
+}
+.link {
+  color: #434455;
+
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.32px;
+}
+.link:hover {
+  color: var(--OCEAN, #404bbf);
+}
+ul {
+  list-style: none;
+  display: flex;
+  gap: 40px;
+}
+a {
+  text-decoration: none;
+}
+
+.hero-image {
+  height: 600px;
+  flex-shrink: 0;
+  color: #fff;
+  background-color: #2e2f42;
+  padding-top: 72px;
+}
+h1 {
+  text-align: center;
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 60px;
+  letter-spacing: 1.12px;
+  margin-left: 472px;
+  margin-top: 116px;
+  margin-right: 472px;
+  margin-bottom: 48px;
+}
+.hero-btn {
+  padding: 16px 32px;
+  border-radius: 4px;
+  color: #fff;
+  background: var(--IRIS, #4d5ae5);
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+
+  margin-left: 636px;
+  margin-top: 0px;
+  margin-right: 635px;
+  margin-bottom: 188px;
+}
+.hero-btn:hover {
+  background: var(--OCEAN, #404bbf);
+}
+.benefits {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 264px;
+  flex-direction: column;
+
+  gap: 24px;
+  margin-left: 156px;
+  margin-top: 120px;
+  margin-right: 156px;
+  margin-bottom: 120px;
+  width: 1128px;
+  height: 104px;
+}
+.our-team {
+  background-color: #f4f4fd;
+}
+h2 {
+  text-align: center;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 40px;
+  letter-spacing: 0.72px;
+
+  margin-left: 600px;
+  padding-top: 120px;
+  margin-right: 600px;
+  margin-bottom: 72px;
+}
+.our-team-menu {
+  padding-bottom: 120px;
+}
+h3 {
+  font-size: 20px;
+
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.4px;
+}
+.our-porfolio {
+  width: 1128px;
+  height: 1000px;
+  flex-shrink: 0;
+}
+.bottom {
+  background-color: #2e2f42;
+}
