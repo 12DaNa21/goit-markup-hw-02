@@ -26,7 +26,9 @@ body {
   line-height: 1.17;
   text-transform: uppercase;
 }
-
+.menu-nav {
+  list-style-type: none;
+}
 .menu-nav-item {
   color: #2e2f42;
   font-family: Roboto;
@@ -37,21 +39,27 @@ body {
   letter-spacing: 0.02em;
   line-height: 1.5;
 }
-
+.link {
+  color: #2e2f42;
+  font-style: normal;
+  text-decoration: none;
+  list-style-type: none;
+}
 .link:hover {
   color: #404bbf;
 }
 .link:focus {
   color: #404bbf;
 }
-address {
-  font-style: normal;
-}
+
 .nav-contacts-item {
   color: #434455;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  font-style: normal;
+  text-decoration: none;
+  list-style-type: none;
 }
 .link {
   color: #434455;
