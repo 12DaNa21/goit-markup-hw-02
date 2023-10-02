@@ -43,10 +43,12 @@ body {
   line-height: 1.5;
 }
 .link {
-  color: #434455;
   font-style: normal;
   text-decoration: none;
   list-style-type: none;
+}
+.link {
+  color: #434455;
 }
 .link:hover {
   color: #404bbf;
