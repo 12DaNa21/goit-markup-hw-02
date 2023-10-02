@@ -16,7 +16,7 @@ body {
   text-transform: uppercase;
 }
 .top-span-logo {
-  color: var(--NAVY-BLUE, #2e2f42);
+  color: #2e2f42;
   font-family: Raleway, sans-serif;
   font-size: 18px;
 
@@ -27,8 +27,8 @@ body {
   text-transform: uppercase;
 }
 .menu-nav {
-  list-style-type: none;
   color: #2e2f42;
+  list-style-type: none;
 }
 .menu-nav-item {
   color: #2e2f42;
