@@ -28,10 +28,10 @@ body {
   text-transform: uppercase;
 }
 .menu-nav-color {
-  color: #ee1010;
   list-style-type: none;
 }
 .menu-nav-item {
+  color: #2e2f42;
   font-family: Roboto;
   font-size: 16px;
   font-style: normal;
