@@ -27,8 +27,8 @@ body {
   line-height: 1.17;
   text-transform: uppercase;
 }
-.menu-nav {
-  color: #2e2f42;
+.menu-nav-color {
+  color: #ee1010;
   list-style-type: none;
 }
 .menu-nav-item {
