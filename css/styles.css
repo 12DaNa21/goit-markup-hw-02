@@ -29,9 +29,10 @@ body {
   line-height: 1.17;
   text-transform: uppercase;
 }
-
-.menu-nav-item {
+.menu-nav-top {
   color: #2e2f42;
+}
+.menu-nav-item {
   list-style-type: none;
   font-family: Roboto;
   font-size: 16px;
