@@ -3,7 +3,9 @@ body {
   color: #434455;
   background-color: #ffffff;
 }
-
+.dgxfxghf {
+  color: #2e2f42;
+}
 .logo-top-nav {
   color: var(--IRIS, #4d5ae5);
 
@@ -43,13 +45,12 @@ body {
   line-height: 1.5;
 }
 .link {
+  color: #434455;
   font-style: normal;
   text-decoration: none;
   list-style-type: none;
 }
-.link {
-  color: #434455;
-}
+
 .link:hover {
   color: #404bbf;
 }
