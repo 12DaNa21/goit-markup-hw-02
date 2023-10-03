@@ -56,6 +56,9 @@ body {
 .link-nav:focus {
   color: #404bbf;
 }
+address {
+  font-style: normal;
+}
 
 .nav-contacts-item {
   font-size: 16px;
@@ -67,14 +70,14 @@ body {
 }
 .link-contacts {
   color: #434455;
-  font-style: normal;
+
   text-decoration: none;
   list-style-type: none;
 }
 .link-contacts:hover {
   color: #404bbf;
 }
-.link-contactsm:focus {
+.link-contacts:focus {
   color: #404bbf;
 }
 .hero-image-top {
