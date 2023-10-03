@@ -69,7 +69,9 @@ address {
   text-decoration: none;
   list-style-type: none;
 }
-
+.link {
+  color: #434455;
+}
 .nav-contacts-item:hover {
   color: #404bbf;
 }
